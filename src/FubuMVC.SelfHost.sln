@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.SelfHost", "FubuMVC.SelfHost\FubuMVC.SelfHost.csproj", "{E8DC2BF6-4F59-43BF-86B9-82C52803B5C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FubuMVC.SelfHost.Testing", "FubuMVC.SelfHost.Testing\FubuMVC.SelfHost.Testing.csproj", "{C4FEF224-35FF-49FD-B733-FB11CF9F6673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8DC2BF6-4F59-43BF-86B9-82C52803B5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DC2BF6-4F59-43BF-86B9-82C52803B5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DC2BF6-4F59-43BF-86B9-82C52803B5C0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E8DC2BF6-4F59-43BF-86B9-82C52803B5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DC2BF6-4F59-43BF-86B9-82C52803B5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DC2BF6-4F59-43BF-86B9-82C52803B5C0}.Release|x86.ActiveCfg = Release|Any CPU
+		{C4FEF224-35FF-49FD-B733-FB11CF9F6673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4FEF224-35FF-49FD-B733-FB11CF9F6673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4FEF224-35FF-49FD-B733-FB11CF9F6673}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C4FEF224-35FF-49FD-B733-FB11CF9F6673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4FEF224-35FF-49FD-B733-FB11CF9F6673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4FEF224-35FF-49FD-B733-FB11CF9F6673}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
